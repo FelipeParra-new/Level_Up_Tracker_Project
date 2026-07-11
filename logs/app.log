@@ -1,0 +1,37 @@
+2026-07-10 12:28:54 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:30:28 — [ERROR] Error entering numerical data. Details: could not convert string to float: 'f'
+2026-07-10 12:34:53 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:35:10 — [ERROR] Error entering numerical data. Details: could not convert string to float: 'f'
+2026-07-10 12:42:50 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:42:53 — [ERROR] Validation error during data input. Details: Exercise name cannot be a number or empty.
+2026-07-10 12:43:00 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:43:39 — [INFO] Data for exercise 'Chest' entered and processed successfully.
+2026-07-10 12:43:39 — [INFO] Progress calculated successfully. Recommendation: Congrats!, keep the same weight next time to practice form
+2026-07-10 12:43:39 — [INFO] Session saved. Total Volume: 1200.0kg | Next Weight: 100.0kg.
+2026-07-10 12:44:56 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:45:01 — [ERROR] Validation error during data input. Details: Exercise name cannot be a number or empty.
+2026-07-10 12:45:04 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:45:16 — [ERROR] Validation error during data input. Details: Invalid exercise type. Must be 'compound' or 'isolation'.
+2026-07-10 12:45:21 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:45:34 — [ERROR] Validation error during data input. Details: could not convert string to float: 'jijija'
+2026-07-10 12:45:38 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:45:57 — [ERROR] Validation error during data input. Details: invalid literal for int() with base 10: 'tres'
+2026-07-10 12:46:01 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:46:20 — [ERROR] Validation error during data input. Details: invalid literal for int() with base 10: 'tres'
+2026-07-10 12:46:27 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:46:57 — [ERROR] Validation error during data input. Details: invalid literal for int() with base 10: 'diez'
+2026-07-10 12:47:00 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:47:16 — [INFO] Data for exercise 'Chest' entered and processed successfully.
+2026-07-10 12:47:16 — [WARNING] Effort score out of range attempted: 11. Requesting retry.
+2026-07-10 12:47:21 — [INFO] Progress calculated successfully. Recommendation: Congrats!, keep the same weight next time to practice form
+2026-07-10 12:47:21 — [INFO] Session saved. Total Volume: 1200.0kg | Next Weight: 100.0kg.
+2026-07-10 12:53:12 — [INFO] LevelUpTracker started successfully.
+2026-07-10 12:53:25 — [WARNING] Invalid exercise type attempted: compou
+2026-07-10 12:53:40 — [WARNING] Invalid weight input. Text entered instead of number.
+2026-07-10 12:53:48 — [WARNING] Invalid reps input. Text entered instead of number.
+2026-07-10 12:53:54 — [WARNING] Invalid effort input. Text entered instead of number.
+2026-07-10 12:53:55 — [WARNING] Effort score out of range: 11.
+2026-07-10 12:53:57 — [WARNING] Effort score out of range: 0.
+2026-07-10 12:54:00 — [INFO] Data for exercise 'Chest' entered and validated successfully.
+2026-07-10 12:54:00 — [INFO] Progress calculated successfully. Recommendation: Too easy! Increase the weight next session
+2026-07-10 12:54:00 — [INFO] Session saved. Total Volume: 900.0kg | Next Weight: 105.0kg.
